@@ -1,0 +1,6 @@
+server:
+  port: 5054
+
+spring:
+  application:
+    name: DEPARTMENT-SERVICE
